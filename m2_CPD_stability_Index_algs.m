@@ -7,7 +7,7 @@ tic
 % The demo shows how tensor spectral clustering can be used to evaluate the
 % stability of  results of tensor components analysis.
 
-% The toolbox tensorlab is needed, which are available from:
+% The toolbox tensor spectral clustering is needed, which are available from:
 % https://github.com/GHu-DUT/Tensor_Spectral_Clustering and it should be
 % added to path.
 %%
